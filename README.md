@@ -1,6 +1,8 @@
 # Hyperblog de xMSoad💚
 Un blog increible para el curso de Git y GitHub de Platzi
 *Creado por el increible Salvador
+*Incluye ejemplos en Windows,Linux y Mac
+*Disponible para todas las edades
 
 ![](https://compass-ssl.xbox.com/assets/a1/2b/a12b5d30-a405-45d5-badc-fd8604a57a63.jpg?n=1616161616_GLP-Page-Hero-0_1083x609.jpg)
 ###Links
